@@ -1,9 +1,9 @@
 # Vegetable Service Engine
-**Course:** MIT8102: Advanced Distributed Systems
+**Course:** MIT8102: Advanced Distributed Systems  
 **Admission Numbers:** 225518 & 121290
 
 ## Project Overview
-This is a mobile distributed application designed to manage a vegetable-price table.
+This is a mobile distributed application designed to manage a vegetable-price table.  
 The system uses a distributed architecture where a mobile client communicates via Java Servlets to a remote Vegetable Compute Engine using RMI (Remote Method Invocation).
 
 ## Features
